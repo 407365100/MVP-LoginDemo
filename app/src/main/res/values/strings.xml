@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVP-LoginDemo</string>
+    <string name="account">账号</string>
+    <string name="please_input_account">请输入账号</string>
+    <string name="password">密码</string>
+    <string name="please_input_password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="call_us">联系我们</string>
+    <string name="display_progress">显示加载进度框</string>
+    <string name="cancel_progress">取消加载进度框</string>
+    <string name="account_cannot_be_empty">账号不能为空</string>
+    <string name="password_cannot_be_empty">密码不能为空</string>
+    <string name="account_or_password_error">账号或密码有误</string>
+    <string name="jump_to_main_pager">跳转到主界面成功</string>
+</resources>
